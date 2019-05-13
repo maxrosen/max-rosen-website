@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maxrosen/max-rosen-website/static/css/main.2cce8147.chunk.css",
+    "main.js": "/maxrosen/max-rosen-website/static/js/main.b5b47dee.chunk.js",
+    "main.js.map": "/maxrosen/max-rosen-website/static/js/main.b5b47dee.chunk.js.map",
+    "runtime~main.js": "/maxrosen/max-rosen-website/static/js/runtime~main.7d5335ad.js",
+    "runtime~main.js.map": "/maxrosen/max-rosen-website/static/js/runtime~main.7d5335ad.js.map",
+    "static/js/2.b288facb.chunk.js": "/maxrosen/max-rosen-website/static/js/2.b288facb.chunk.js",
+    "static/js/2.b288facb.chunk.js.map": "/maxrosen/max-rosen-website/static/js/2.b288facb.chunk.js.map",
+    "index.html": "/maxrosen/max-rosen-website/index.html",
+    "precache-manifest.7132b037f15aed2d3930db9e3fe70402.js": "/maxrosen/max-rosen-website/precache-manifest.7132b037f15aed2d3930db9e3fe70402.js",
+    "service-worker.js": "/maxrosen/max-rosen-website/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/maxrosen/max-rosen-website/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/maxrosen/max-rosen-website/static/media/logo.5d5d9eef.svg"
+  }
+}
